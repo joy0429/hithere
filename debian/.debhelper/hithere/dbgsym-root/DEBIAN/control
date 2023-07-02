@@ -1,11 +1,11 @@
 Package: hithere-dbgsym
 Source: hithere
-Version: 1.0-1
+Version: 1.0-2
 Auto-Built-Package: debug-symbols
 Architecture: amd64
 Maintainer: Joy Lee <cielyui3221@gmail.com>
 Installed-Size: 15
-Depends: hithere (= 1.0-1)
+Depends: hithere (= 1.0-2)
 Section: debug
 Priority: optional
 Description: debug symbols for hithere

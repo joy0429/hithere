@@ -3,5 +3,5 @@
 	dh $@
 
 override_dh_auto_install:
+	sh testing.sh 
 	$(MAKE) DESTDIR=$$(pwd)/debian/hithere prefix=/usr install
-
