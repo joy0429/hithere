@@ -1,0 +1,9 @@
+Package: hithere
+Version: 1.0-1
+Architecture: amd64
+Maintainer: Joy Lee <cielyui3221@gmail.com>
+Installed-Size: 26
+Depends: libc6 (>= 2.34)
+Priority: optional
+Description: greet user
+ hithere greets the user, or the world.
